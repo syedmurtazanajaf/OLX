@@ -1,0 +1,139 @@
+body{
+    overflow-x: hidden;
+
+}
+.container1 {
+    width: 100vw;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+/* container1 end */
+
+.container2 {
+    width: 100vw;
+    padding: 10px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 1vw;
+    border-bottom: 1px solid lightgray;
+}
+
+.cont2slect {
+    width: 300px;
+    height: 50px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.cont2input {
+    width: 700px;
+    height: 50px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.container2 button {
+    width: 120px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: transparent;
+    border-top: 6px solid blue;
+    border-bottom: 6px solid palevioletred;
+    border-right: 6px solid yellow;
+    border-left: 6px solid red;
+    font-weight: 900;
+
+}
+
+/* container2 end */
+
+.container3{
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1vw;
+}
+.container3 a{
+    text-decoration: none;
+    color: black;
+}
+
+.cont3select{
+    border: transparent;
+}
+
+/* container3 end */
+
+.container4{
+     width: 100vw;
+     display: flex; 
+     justify-content: center;
+     padding: 30px;
+}
+
+.container4 img{
+    width: 100%;
+    border-radius: 5px;
+}
+/* container4 end */
+.container5{
+    margin-bottom: 50px;
+}
+.cont5heading{
+    padding: 30px;
+}
+.container5 img{
+    width: 100px;
+    height: 100px;
+
+}
+.row1{
+    margin-bottom: 50px;
+}
+
+/* container5 end  */
+.container6{
+    margin-bottom: 50px;
+}
+
+/* container6 end */
+
+.container7{
+    margin-bottom: 50px;
+}
+
+/* container7 end */
+
+.container8{
+    margin-bottom: 50px;
+
+}
+
+/* container8 end */
+
+.container9{
+    width: 100vw;
+    background-color: #ebeeef;
+    border-bottom: 1px solid lightgray;
+
+}
+
+.con9h5{
+    padding-top: 60px;
+    line-height: 0;
+}
+
+.con9h1{
+    padding-top: 30px;
+}
+
+
+/* container9 end */
